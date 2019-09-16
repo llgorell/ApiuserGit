@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ApiGithub</string>
+    <string name="gitname">Name :</string>
+    <string name="gitemail">Email :</string>
+    <string name="gitblog">Blog :</string>
+    <string name="gitcompany">Company :</string>
+    <string name="gitlocation">Location :</string>
+</resources>
